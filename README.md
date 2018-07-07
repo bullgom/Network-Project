@@ -3,13 +3,9 @@
 
 Team Member
 -Inyoung Kim: Client
-
 -Jinsuk Huh: Client
-
 -Sangjae Lee: Server
-
 -Jayoung Lee: Server
-
 -Hyeonwoo Kang: Server
 
 
