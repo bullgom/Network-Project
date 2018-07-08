@@ -17,7 +17,6 @@ Game Description: Simple 2D tag
 Current Project Status
 -Ended due to project team no longer meet
 -Unfinished
--Server files not uploaded
 -Login & Registeration & Matching feature complete
 
 Future Plan
